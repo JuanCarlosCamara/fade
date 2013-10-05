@@ -1,0 +1,16 @@
+{
+	"name": "Fade",
+ 	"description": "Juan Carlos Camara - Food and drink for everyone",
+ 	"launch_path": "/index.html",
+ 	"icons": {
+    	"128": "/image/appIcon.png",
+    	"60": "/image/appIcon-60.png"
+   },
+ 	
+ 	"developer": {
+    	"name": "Cache Productions",
+    	"url": "http://your-homepage-here.org"
+   },
+ 	
+ 	"default_locate": "en"
+}
